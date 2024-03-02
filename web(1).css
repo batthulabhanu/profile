@@ -1,0 +1,80 @@
+img{
+    border-radius:60%;
+   margin-left:63px;
+    margin-top:60px;
+}
+body{
+    background-color:green;
+    color:white;
+    
+}
+.matter{
+   color:white;
+   margin-left:70px;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.648);
+    margin-left:400px;
+    margin-top:70px;
+    margin-right:360px;
+    height:550px;
+    border-radius:30px;
+}
+.btn1{
+    background-color: rgba(0, 0, 0, 0.634);
+    border-radius:10px;
+    text-align:center;
+    width: 280px;
+    height:20px;
+    margin-left:20px;
+    cursor:pointer;
+    color:rgb(255, 255, 255);
+    
+}
+.btn2{
+    background-color: rgba(14, 4, 4, 0.634);
+    border-radius:10px;
+    text-align:center;
+    width: 280px;
+    height:20px;
+    margin-left:20px;
+    margin-top:10px;
+    cursor:pointer;
+}
+.btn3{
+    background-color: rgba(7, 2, 2, 0.634);
+    border-radius:10px;
+    text-align:center;
+    width: 280px;
+    height:20px;
+    margin-left:20px;
+    margin-top:10px;
+    cursor:pointer;
+}
+.btn4{
+    background-color: rgba(1, 0, 0, 0.634);
+    border-radius:10px;
+    text-align:center;
+    width: 280px;
+    height:20px;
+    margin-left:20px;
+    margin-top:10px;
+    cursor:pointer;
+}
+.btn4:hover{
+    background-color:orange;
+}
+.btn3:hover{
+    background-color:rgb(88, 245, 21);
+}
+.btn2:hover{
+    background-color:rgb(94, 43, 196);
+    transition-duration: 5 "s";
+}
+.btn1:hover{
+    background-color:rgb(190, 141, 51);
+}
+a{
+    text-decoration:none;
+    color:white;
+}
